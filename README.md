@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilatovAlexey
 - 👀 I’m interested frontend
-- 🌱 I’m currently learning React adn Redux
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me email: alexeyfilatov.1@yandex.ru
 
