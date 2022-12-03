@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FilatovAlexey
-- 👀 I’m interested frontend
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate with everyone
+- 👀 I do cool and high quality , not uncool and poor quality
 - 📫 How to reach me email: alexeyfilatov.1@yandex.ru
 
 <!---
