@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FilatovAlexey
-- 👀 I do cool and high quality , not uncool and poor quality
+- 👀 I always make it in a cool and high quality way, and it’s just impossible for me to make otherwise
 - 📫 How to reach me email: alexeyfilatov.1@yandex.ru
 
 <!---
